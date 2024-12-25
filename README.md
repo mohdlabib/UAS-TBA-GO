@@ -11,7 +11,7 @@
 
 
 ### 🎥 Demo
-**Demo: https://search.gum8597.my.id**
+**Demo: [https://search.gum8597.my.id](http://uastbago.project.labibweb.my.id/)**
 
 ![App Screenshot](https://github.com/mohdlabib/automata-Uas/blob/main/demo.jpg?raw=true)
 
